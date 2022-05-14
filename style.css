@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-color: #272727;
+}
+
+.card {
+    width: 300px;
+    height: 665px;
+}
+
+
+
+#card2 {
+    background-color: #272727;
+}
+
+#card3 {
+    background-color: red;
+}
+
+#card4 {
+    background-color: darkturquoise;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    height: 650px;
+}
+
+h2 {
+    padding-bottom: 5px;
+}
+
+.card p {
+    padding-bottom: 3px;
+}
